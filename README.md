@@ -2,10 +2,10 @@
 ### Expected Results
 
 - Main Page
-  ![Test Image 1] (https://raw.githubusercontent.com/ranafaheem/Dabbel/main/public/Screenshot%202021-05-16%20at%2019.27.43.png)
+  ![Test Image 1](https://raw.githubusercontent.com/ranafaheem/Dabbel/main/public/Screenshot%202021-05-16%20at%2019.27.43.png)
 
-- Mobile
-  ![Test Image 2] (https://raw.githubusercontent.com/ranafaheem/Dabbel/main/public/Screenshot%202021-05-16%20at%2019.27.55.png)
+- Mobile Preview
+  ![Test Image 3](https://raw.githubusercontent.com/ranafaheem/Dabbel/main/public/Screenshot%202021-05-16%20at%2019.27.55.png)
 
 ### Frontend technology and framework
 
